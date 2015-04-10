@@ -1,7 +1,7 @@
 from random import randint
 from time import sleep
 
-#variabler
+#variabler test 
 teller = 1
 total_gevinst = 0
 total_tap = 0 
